@@ -1,2 +1,2 @@
 # Personal_Blog
-a personal blog written by HTML and Bootstrap
+This is a personal blog about my education and my experiences as a junior full-stack developer.   
